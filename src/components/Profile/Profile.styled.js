@@ -38,7 +38,6 @@ export const Container = styled.div`
 
 export const StatList = styled.ul`
 background-color: #f4f4fd;
-
 display: flex;
 justify-content: space-evenly;
 

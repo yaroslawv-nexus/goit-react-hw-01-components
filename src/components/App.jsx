@@ -11,7 +11,7 @@ import transactions from '../json/transactions.json';
 export const App = () => {
   return (
     <>
-      <div class="profile-cont">
+      <div className="profile-cont">
         <Profile
           username={user.username}
           tag={user.tag}
